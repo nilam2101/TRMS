@@ -7,7 +7,7 @@ JavaScript, Express.js, DynamoDB, React, HTML, CSS, Redux, TypeScript
 # Getting Started
 **You will need an AWS account and DynamoDB.
 
-git clone https://github.com/Wewe34/TuitionReimbursementSystem.git
+git clone https://github.com/nilam2101/TRMS.git
 
 
 ## backend folder 
