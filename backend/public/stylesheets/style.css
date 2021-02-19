@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100&family=Sriracha&display=swap');
+
+body {
+  font-family: 'Times New Roman', Times, serif;
+  background-image: url('https://cdn2.percipio.com/public/c/public/images/login-bg-2.jpg?width=1800');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.container{
+	size:10cm;
+	float: right;
+	margin: 30px auto;
+	width: 550px;
+	font-family: 'Times New Roman', Times, serif;
+	font-display:initial;
+	background-color: rgb(68, 77, 83);
+	color: white;
+	box-sizing: border-box;
+	height: 400px;
+	padding:50px;
+	margin: 30px auto;
+  
+}
+
+.logcontainer{
+	margin: 30px auto;
+	width: 350px;
+	font-family: 'Times New Roman', Times, serif;
+	background-color: rgb(68, 77, 83);
+	color: white;
+	box-sizing: border-box;
+	height: 350px;
+	padding:50px;
+	margin: 30px auto;	
+  
+}
+.emptyd{
+	width: 30%;
+	height:80px;
+  
+}
+
+nav {
+	background-color: rgb(16, 16, 17);
+  	color: white;
+  	font-size:xx-large;
+}
+
+li > a {
+	color: white;
+}
+
+nav > ul {
+  height:fit-content ;
+	list-style-type: none;
+	display: flex;
+	justify-content:space-around;
+}
+
+.input {
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	width: 30%;
+	margin: auto;
+}
+
+.logButton{
+  	display: flex;
+	justify-content: center;
+	text-align: center;
+	width: 100%;
+	margin: auto;
+}
+
+#welcome{
+	font:bold;
+	font-size: xx-large;
+	font-weight: 800;
+	font-style: italic;
+}
+
+#Wel-Mess{
+	font:bold;
+	font-size: large;
+	font-weight: 500;
+	font-style: italic;
+}
+
+#reimburseForm{
+	margin: 30px auto;
+	width: 550px;
+	font-family: 'Times New Roman', Times, serif;
+	background-color: rgb(68, 77, 83);
+	color: white;
+	box-sizing: border-box;
+	height: 650px;
+	padding:50px;
+	margin: 30px auto;
+}
