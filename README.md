@@ -12,7 +12,7 @@ git clone https://github.com/nilam2101/TRMS.git
 
 ## backend folder 
 1. `npm install`
-2. `aws configure` (add your AWS Access key and secretAccessKey OR add it in backend/src/dynamo/dynamo.ts)
+2. `aws configure` (add your AWS Access key and secretAccessKey )
 3. `npm run setup`
 4. `npm run start`
 
